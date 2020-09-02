@@ -1,0 +1,13 @@
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.exe
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.deps.json
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.runtimeconfig.json
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.runtimeconfig.dev.json
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.dll
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\bin\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.pdb
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.csprojAssemblyReference.cache
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.AssemblyInfoInputs.cache
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.AssemblyInfo.cs
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.dll
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.pdb
+C:\Users\ajafe\OneDrive\Desktop\Invoice_Cloud_Screening_Challenge\obj\Debug\netcoreapp3.1\Invoice_Cloud_Screening_Challenge.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Invoice_Cloud_Screening_Challenge/1.0.0": {
+        "runtime": {
+          "Invoice_Cloud_Screening_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Invoice_Cloud_Screening_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ajafe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ajafe\\.nuget\\packages"
+    ]
+  }
+}
