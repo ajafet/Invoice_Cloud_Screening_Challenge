@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajafe\\OneDrive\\Desktop\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj": {}
+    "C:\\Users\\ajafe\\Documents\\GitHub\\Personal Projects\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajafe\\OneDrive\\Desktop\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj": {
+    "C:\\Users\\ajafe\\Documents\\GitHub\\Personal Projects\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajafe\\OneDrive\\Desktop\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj",
+        "projectUniqueName": "C:\\Users\\ajafe\\Documents\\GitHub\\Personal Projects\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj",
         "projectName": "Invoice_Cloud_Screening_Challenge",
-        "projectPath": "C:\\Users\\ajafe\\OneDrive\\Desktop\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj",
+        "projectPath": "C:\\Users\\ajafe\\Documents\\GitHub\\Personal Projects\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge.csproj",
         "packagesPath": "C:\\Users\\ajafe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajafe\\OneDrive\\Desktop\\Invoice_Cloud_Screening_Challenge\\obj\\",
+        "outputPath": "C:\\Users\\ajafe\\Documents\\GitHub\\Personal Projects\\Invoice_Cloud_Screening_Challenge\\Invoice_Cloud_Screening_Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajafe\\AppData\\Roaming\\NuGet\\NuGet.Config"
